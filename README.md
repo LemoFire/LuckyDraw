@@ -19,19 +19,34 @@
 
 ### 程序运行截图及说明
 
-欢迎界面
+- 欢迎界面
+
 ![1](https://github.com/LemoFire/LuckyDraw/raw/main/doc/1.png)
-定义奖品信息界面
+
+- 定义奖品信息界面
+
 ![2](https://github.com/LemoFire/LuckyDraw/raw/main/doc/2.png)
-抽奖界面，接下来关闭程序重新打开
+
+- 抽奖界面，接下来关闭程序重新打开
+
 ![3](https://github.com/LemoFire/LuckyDraw/raw/main/doc/3.png)
-直接选 2 提示未定义，重新选择
+
+- 直接选 2 提示未定义，重新选择
+
 ![4](https://github.com/LemoFire/LuckyDraw/raw/main/doc/4.png)
-按 3 读取上次的信息，并可以开始抽奖
+
+- 按 3 读取上次的信息，并可以开始抽奖
+
 ![5](https://github.com/LemoFire/LuckyDraw/raw/main/doc/5.png)
-抽奖正常
+
+- 抽奖正常
+
 ![6](https://github.com/LemoFire/LuckyDraw/raw/main/doc/6.png)
-若定义抽奖人数小于最大奖项的奖项数目或者输入 0，提示错误
+
+- 若定义抽奖人数小于最大奖项的奖项数目或者输入 0，提示错误
+
 ![7](https://github.com/LemoFire/LuckyDraw/raw/main/doc/7.png)
-记事本数据记录正常
+
+- 记事本数据记录正常
+
 ![8](https://github.com/LemoFire/LuckyDraw/raw/main/doc/8.png)
